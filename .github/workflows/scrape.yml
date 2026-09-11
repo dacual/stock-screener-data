@@ -6,17 +6,17 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Fixes Exit Code 128 (Gives repository write permissions)
+  contents: write
 
 jobs:
   scrape-and-publish:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4  # Updated to v4 (Node 24 compliant)
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5  # Updated to v5 (Node 24 compliant)
+        uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
@@ -29,7 +29,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add sector_top3.json
           
-          # Only commit if there are actual changes to prevent exit code errors
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes detected in sector_top3.json. Skipping commit."
           else
