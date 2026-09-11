@@ -2,19 +2,21 @@ name: Scheduled Stock Scraping
 
 on:
   schedule:
-    # Runs at 00:00 UTC every Monday (or quarterly)
     - cron: '0 0 * * 1'
-  workflow_dispatch: # Allows manual trigger from GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Fixes Exit Code 128 (Gives repository write permissions)
 
 jobs:
   scrape-and-publish:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Updated to v4 (Node 24 compliant)
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Updated to v5 (Node 24 compliant)
         with:
           python-version: '3.x'
 
@@ -26,6 +28,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add sector_top3.json
-          git status
-          git diff-index --quiet HEAD || git commit -m "Auto-update sector top 3 JSON"
-          git push
+          
+          # Only commit if there are actual changes to prevent exit code errors
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes detected in sector_top3.json. Skipping commit."
+          else
+            git commit -m "Auto-update WsTIA+ 40-stock target universe JSON"
+            git push
+          fi
