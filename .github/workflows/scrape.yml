@@ -27,11 +27,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add sector_top3.json
+          git add portfolio_forecasts.json sector_top3.json
           
           if git diff --quiet && git diff --staged --quiet; then
-            echo "No changes detected in sector_top3.json. Skipping commit."
+            echo "No changes detected. Skipping commit."
           else
-            git commit -m "Auto-update WsTIA+ 40-stock target universe JSON"
+            git commit -m "Auto-update forecast dataset and sector JSON"
             git push
           fi
