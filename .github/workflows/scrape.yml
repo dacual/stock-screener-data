@@ -1,4 +1,15 @@
-steps:
+name: Stock Analysis Data Scraper
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape_and_transform:
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Check out repository
         uses: actions/checkout@v4.2.2
 
