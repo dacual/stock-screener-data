@@ -1,32 +1,35 @@
-name: Scheduled Stock Scraping
+name: Stock Analysis Data Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * 1'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    # Runs daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual run button in GitHub Actions tab
 
 jobs:
-  scrape-and-publish:
+  scrape_and_transform:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v5
+      - name: Check out repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Run Scraper
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas numpy openpyxl requests
+
+      - name: Run Scraper Script
         run: python scraper.py
 
-      - name: Commit & Push Updated Data
+      - name: Commit and Push Updated Data
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Auto-update 40-stock universe and forecast dataset" || echo "No changes to commit"
-          git push
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output.json output.xlsx
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: Update stock analysis dynamic data" && git push)
