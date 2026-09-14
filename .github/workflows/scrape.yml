@@ -18,17 +18,12 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pandas numpy openpyxl requests
-
       - name: Run Scraper Script
         run: python scraper.py
 
       - name: Commit and Push Updated Data
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sector_top3.json portfolio_forecasts.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: Update stock analysis dynamic data" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: update stock metrics" && git push)
