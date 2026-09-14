@@ -1,21 +1,9 @@
-name: Stock Analysis Data Scraper
-
-on:
-  schedule:
-    # Runs daily at 06:00 UTC
-    - cron: '0 6 * * *'
-  workflow_dispatch: # Allows manual run button in GitHub Actions tab
-
-jobs:
-  scrape_and_transform:
-    runs-on: ubuntu-latest
-
-    steps:
+steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.4.0
         with:
           python-version: '3.11'
 
