@@ -1,1 +1,1922 @@
-[]
+[
+  {
+    "Symbol": "NVDA",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "NVDA",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "NVDA",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "NVDA",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "NVDA",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "NVDA",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AAPL",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AAPL",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "AAPL",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "AAPL",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "AAPL",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "AAPL",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "MSFT",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "MSFT",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "MSFT",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "MSFT",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "MSFT",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "MSFT",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "TSM",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "TSM",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "TSM",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "TSM",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "TSM",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "TSM",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AVGO",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AVGO",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "AVGO",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "AVGO",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "AVGO",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "AVGO",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "MU",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "MU",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "MU",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "MU",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "MU",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "MU",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "SKHY",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "SKHY",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "SKHY",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "SKHY",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "SKHY",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "SKHY",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AMD",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AMD",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "AMD",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "AMD",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "AMD",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "AMD",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "ASML",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "ASML",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "ASML",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "ASML",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "ASML",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "ASML",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "INTC",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "INTC",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "INTC",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "INTC",
+    "Sector": "Technology",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "INTC",
+    "Sector": "Technology",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "INTC",
+    "Sector": "Technology",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "LLY",
+    "Sector": "Healthcare",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "LLY",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "LLY",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "LLY",
+    "Sector": "Healthcare",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "LLY",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "LLY",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "UNH",
+    "Sector": "Healthcare",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "UNH",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "UNH",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "UNH",
+    "Sector": "Healthcare",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "UNH",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "UNH",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "JNJ",
+    "Sector": "Healthcare",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "JNJ",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "JNJ",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "JNJ",
+    "Sector": "Healthcare",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "JNJ",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "JNJ",
+    "Sector": "Healthcare",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "JPM",
+    "Sector": "Financials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "JPM",
+    "Sector": "Financials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "JPM",
+    "Sector": "Financials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "JPM",
+    "Sector": "Financials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "JPM",
+    "Sector": "Financials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "JPM",
+    "Sector": "Financials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "BAC",
+    "Sector": "Financials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "BAC",
+    "Sector": "Financials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "BAC",
+    "Sector": "Financials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "BAC",
+    "Sector": "Financials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "BAC",
+    "Sector": "Financials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "BAC",
+    "Sector": "Financials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "WFC",
+    "Sector": "Financials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "WFC",
+    "Sector": "Financials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "WFC",
+    "Sector": "Financials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "WFC",
+    "Sector": "Financials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "WFC",
+    "Sector": "Financials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "WFC",
+    "Sector": "Financials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AMZN",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AMZN",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "AMZN",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "AMZN",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "AMZN",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "AMZN",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "TSLA",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "TSLA",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "TSLA",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "TSLA",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "TSLA",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "TSLA",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "HD",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "HD",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "HD",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "HD",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "HD",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "HD",
+    "Sector": "Consumer Discretionary",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Sector": "Communication Services",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Sector": "Communication Services",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "META",
+    "Sector": "Communication Services",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "META",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "META",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "META",
+    "Sector": "Communication Services",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "META",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "META",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "NFLX",
+    "Sector": "Communication Services",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "NFLX",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "NFLX",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "NFLX",
+    "Sector": "Communication Services",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "NFLX",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "NFLX",
+    "Sector": "Communication Services",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "GE",
+    "Sector": "Industrials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "GE",
+    "Sector": "Industrials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "GE",
+    "Sector": "Industrials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "GE",
+    "Sector": "Industrials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "GE",
+    "Sector": "Industrials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "GE",
+    "Sector": "Industrials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "CAT",
+    "Sector": "Industrials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "CAT",
+    "Sector": "Industrials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "CAT",
+    "Sector": "Industrials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "CAT",
+    "Sector": "Industrials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "CAT",
+    "Sector": "Industrials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "CAT",
+    "Sector": "Industrials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "RTX",
+    "Sector": "Industrials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "RTX",
+    "Sector": "Industrials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "RTX",
+    "Sector": "Industrials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "RTX",
+    "Sector": "Industrials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "RTX",
+    "Sector": "Industrials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "RTX",
+    "Sector": "Industrials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "PG",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "PG",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "PG",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "PG",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "PG",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "PG",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "COST",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "COST",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "COST",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "COST",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "COST",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "COST",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "WMT",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "WMT",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "WMT",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "WMT",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "WMT",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "WMT",
+    "Sector": "Consumer Staples",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "XOM",
+    "Sector": "Energy",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "XOM",
+    "Sector": "Energy",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "XOM",
+    "Sector": "Energy",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "XOM",
+    "Sector": "Energy",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "XOM",
+    "Sector": "Energy",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "XOM",
+    "Sector": "Energy",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "CVX",
+    "Sector": "Energy",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "CVX",
+    "Sector": "Energy",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "CVX",
+    "Sector": "Energy",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "CVX",
+    "Sector": "Energy",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "CVX",
+    "Sector": "Energy",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "CVX",
+    "Sector": "Energy",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "COP",
+    "Sector": "Energy",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "COP",
+    "Sector": "Energy",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "COP",
+    "Sector": "Energy",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "COP",
+    "Sector": "Energy",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "COP",
+    "Sector": "Energy",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "COP",
+    "Sector": "Energy",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "NEE",
+    "Sector": "Utilities",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "NEE",
+    "Sector": "Utilities",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "NEE",
+    "Sector": "Utilities",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "NEE",
+    "Sector": "Utilities",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "NEE",
+    "Sector": "Utilities",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "NEE",
+    "Sector": "Utilities",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "SO",
+    "Sector": "Utilities",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "SO",
+    "Sector": "Utilities",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "SO",
+    "Sector": "Utilities",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "SO",
+    "Sector": "Utilities",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "SO",
+    "Sector": "Utilities",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "SO",
+    "Sector": "Utilities",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "DUK",
+    "Sector": "Utilities",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "DUK",
+    "Sector": "Utilities",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "DUK",
+    "Sector": "Utilities",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "DUK",
+    "Sector": "Utilities",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "DUK",
+    "Sector": "Utilities",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "DUK",
+    "Sector": "Utilities",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "PLD",
+    "Sector": "Real Estate",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "PLD",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "PLD",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "PLD",
+    "Sector": "Real Estate",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "PLD",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "PLD",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AMT",
+    "Sector": "Real Estate",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "AMT",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "AMT",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "AMT",
+    "Sector": "Real Estate",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "AMT",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "AMT",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "EQIX",
+    "Sector": "Real Estate",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "EQIX",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "EQIX",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "EQIX",
+    "Sector": "Real Estate",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "EQIX",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "EQIX",
+    "Sector": "Real Estate",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "LIN",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "LIN",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "LIN",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "LIN",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "LIN",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "LIN",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "SHW",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "SHW",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "SHW",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "SHW",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "SHW",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "SHW",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "FCX",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue High",
+    "Year": "2026",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  },
+  {
+    "Symbol": "FCX",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Avg",
+    "Year": "2026",
+    "Value": 90.0,
+    "RawValue": "90.0B"
+  },
+  {
+    "Symbol": "FCX",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Low",
+    "Year": "2026",
+    "Value": 80.0,
+    "RawValue": "80.0B"
+  },
+  {
+    "Symbol": "FCX",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue High",
+    "Year": "2027",
+    "Value": 120.0,
+    "RawValue": "120.0B"
+  },
+  {
+    "Symbol": "FCX",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Avg",
+    "Year": "2027",
+    "Value": 110.0,
+    "RawValue": "110.0B"
+  },
+  {
+    "Symbol": "FCX",
+    "Sector": "Basic Materials",
+    "Metric": "Revenue Low",
+    "Year": "2027",
+    "Value": 100.0,
+    "RawValue": "100.0B"
+  }
+]
