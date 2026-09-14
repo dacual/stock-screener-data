@@ -27,21 +27,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force add files
-          git add -f sector_top3.json portfolio_forecasts.json
-          
-          # Force a commit if files exist
-          git commit -m "Auto-update WsTIA+ 40-stock target universe JSON" || echo "Nothing to commit"
+          git add -A
+          git commit -m "Auto-update 40-stock universe and forecast dataset" || echo "No changes to commit"
           git push
-          
-          # Explicitly add both JSON files regardless of whether they exist yet
-          git add sector_top3.json portfolio_forecasts.json
-          
-          # Check if there are staged changes ready to commit
-          if git diff --staged --quiet; then
-            echo "No changes detected in JSON files. Skipping commit."
-          else
-            git commit -m "Auto-update 40-stock universe and forecast datasets"
-            git push
-          fi
