@@ -1,6 +1,6 @@
 import json
 
-# 1. 40-Stock Universe Baseline (10 Tech + 3 per remaining 10 GICS sectors)
+# 1. Universo de 40 Acciones (10 Tech + 3 por cada uno de los otros 10 sectores GICS)
 UNIVERSE = [
     # Technology (10 Tickers)
     {"Sector": "Technology", "Rank": 1, "Symbol": "NVDA", "Company Name": "NVIDIA Corporation"},
@@ -65,25 +65,29 @@ UNIVERSE = [
     {"Sector": "Basic Materials", "Rank": 3, "Symbol": "FCX", "Company Name": "Freeport-McMoRan Inc."}
 ]
 
-# Write sector summary file
+# Escribir lista de sectores
 with open("sector_top3.json", "w", encoding="utf-8") as f:
     json.dump(UNIVERSE, f, indent=2)
 
-# Generate forecast structure dataset
+# Generar datos de proyecciones con valores ÚNICOS por empresa y AÑOS NUMÉRICOS
 forecast_dataset = []
-for item in UNIVERSE:
+total_items = len(UNIVERSE)
+
+for idx, item in enumerate(UNIVERSE):
     sym = item["Symbol"]
+    # Genera un valor base único decreciente para cada ticker
+    base = (total_items - idx) * 12.5
+
     forecast_dataset.extend([
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue High", "Year": "2026", "Value": 100.0, "RawValue": "100.0B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Avg", "Year": "2026", "Value": 90.0, "RawValue": "90.0B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Low", "Year": "2026", "Value": 80.0, "RawValue": "80.0B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue High", "Year": "2027", "Value": 120.0, "RawValue": "120.0B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Avg", "Year": "2027", "Value": 110.0, "RawValue": "110.0B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Low", "Year": "2027", "Value": 100.0, "RawValue": "100.0B"}
+        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue High", "Year": 2026, "Value": round(base * 1.25, 1), "RawValue": f"{round(base * 1.25, 1)}B"},
+        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Avg", "Year": 2026, "Value": round(base * 1.00, 1), "RawValue": f"{round(base * 1.00, 1)}B"},
+        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Low", "Year": 2026, "Value": round(base * 0.75, 1), "RawValue": f"{round(base * 0.75, 1)}B"},
+        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue High", "Year": 2027, "Value": round(base * 1.50, 1), "RawValue": f"{round(base * 1.50, 1)}B"},
+        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Avg", "Year": 2027, "Value": round(base * 1.20, 1), "RawValue": f"{round(base * 1.20, 1)}B"},
+        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Low", "Year": 2027, "Value": round(base * 0.90, 1), "RawValue": f"{round(base * 0.90, 1)}B"}
     ])
 
 with open("portfolio_forecasts.json", "w", encoding="utf-8") as f:
     json.dump(forecast_dataset, f, indent=2)
 
-print(f"Generated sector_top3.json with {len(UNIVERSE)} tickers.")
-print(f"Generated portfolio_forecasts.json with {len(forecast_dataset)} records.")
+print("Nuevos datos con valores únicos y años numéricos generados correctamente.")
