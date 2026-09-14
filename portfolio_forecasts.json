@@ -3,7 +3,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 603.8,
     "RawValue": "603.8B"
   },
@@ -11,7 +11,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 525.0,
     "RawValue": "525.0B"
   },
@@ -19,7 +19,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 446.2,
     "RawValue": "446.2B"
   },
@@ -27,7 +27,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 664.1,
     "RawValue": "664.1B"
   },
@@ -35,7 +35,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 577.5,
     "RawValue": "577.5B"
   },
@@ -43,7 +43,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 490.9,
     "RawValue": "490.9B"
   },
@@ -51,7 +51,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.2,
     "RawValue": "$4.2"
   },
@@ -59,7 +59,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.5,
     "RawValue": "$3.5"
   },
@@ -67,7 +67,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 2.8,
     "RawValue": "$2.8"
   },
@@ -75,7 +75,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.7,
     "RawValue": "$4.7"
   },
@@ -83,7 +83,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.92,
     "RawValue": "$3.92"
   },
@@ -91,7 +91,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.14,
     "RawValue": "$3.14"
   },
@@ -99,7 +99,7 @@
     "Symbol": "NVDA",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 14.5,
     "RawValue": "14.5x"
   },
@@ -107,7 +107,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 589.4,
     "RawValue": "589.4B"
   },
@@ -115,7 +115,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 512.5,
     "RawValue": "512.5B"
   },
@@ -123,7 +123,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 435.6,
     "RawValue": "435.6B"
   },
@@ -131,7 +131,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 666.0,
     "RawValue": "666.0B"
   },
@@ -139,7 +139,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 579.1,
     "RawValue": "579.1B"
   },
@@ -147,7 +147,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 492.2,
     "RawValue": "492.2B"
   },
@@ -155,7 +155,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.58,
     "RawValue": "$5.58"
   },
@@ -163,7 +163,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.65,
     "RawValue": "$4.65"
   },
@@ -171,7 +171,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.72,
     "RawValue": "$3.72"
   },
@@ -179,7 +179,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.47,
     "RawValue": "$6.47"
   },
@@ -187,7 +187,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.39,
     "RawValue": "$5.39"
   },
@@ -195,7 +195,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.31,
     "RawValue": "$4.31"
   },
@@ -203,7 +203,7 @@
     "Symbol": "AAPL",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 17.7,
     "RawValue": "17.7x"
   },
@@ -211,7 +211,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 575.0,
     "RawValue": "575.0B"
   },
@@ -219,7 +219,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 500.0,
     "RawValue": "500.0B"
   },
@@ -227,7 +227,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 425.0,
     "RawValue": "425.0B"
   },
@@ -235,7 +235,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 667.0,
     "RawValue": "667.0B"
   },
@@ -243,7 +243,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 580.0,
     "RawValue": "580.0B"
   },
@@ -251,7 +251,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 493.0,
     "RawValue": "493.0B"
   },
@@ -259,7 +259,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -267,7 +267,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.8,
     "RawValue": "$5.8"
   },
@@ -275,7 +275,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.64,
     "RawValue": "$4.64"
   },
@@ -283,7 +283,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.35,
     "RawValue": "$8.35"
   },
@@ -291,7 +291,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -299,7 +299,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.57,
     "RawValue": "$5.57"
   },
@@ -307,7 +307,7 @@
     "Symbol": "MSFT",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 20.9,
     "RawValue": "20.9x"
   },
@@ -315,7 +315,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 560.6,
     "RawValue": "560.6B"
   },
@@ -323,7 +323,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 487.5,
     "RawValue": "487.5B"
   },
@@ -331,7 +331,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 414.4,
     "RawValue": "414.4B"
   },
@@ -339,7 +339,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 667.1,
     "RawValue": "667.1B"
   },
@@ -347,7 +347,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 580.1,
     "RawValue": "580.1B"
   },
@@ -355,7 +355,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 493.1,
     "RawValue": "493.1B"
   },
@@ -363,7 +363,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -371,7 +371,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.95,
     "RawValue": "$6.95"
   },
@@ -379,7 +379,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.56,
     "RawValue": "$5.56"
   },
@@ -387,7 +387,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.34,
     "RawValue": "$10.34"
   },
@@ -395,7 +395,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.62,
     "RawValue": "$8.62"
   },
@@ -403,7 +403,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.9,
     "RawValue": "$6.9"
   },
@@ -411,7 +411,7 @@
     "Symbol": "TSM",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 24.1,
     "RawValue": "24.1x"
   },
@@ -419,7 +419,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 546.2,
     "RawValue": "546.2B"
   },
@@ -427,7 +427,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 475.0,
     "RawValue": "475.0B"
   },
@@ -435,7 +435,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 403.8,
     "RawValue": "403.8B"
   },
@@ -443,7 +443,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 666.4,
     "RawValue": "666.4B"
   },
@@ -451,7 +451,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 579.5,
     "RawValue": "579.5B"
   },
@@ -459,7 +459,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 492.6,
     "RawValue": "492.6B"
   },
@@ -467,7 +467,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.72,
     "RawValue": "$9.72"
   },
@@ -475,7 +475,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.1,
     "RawValue": "$8.1"
   },
@@ -483,7 +483,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.48,
     "RawValue": "$6.48"
   },
@@ -491,7 +491,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.88,
     "RawValue": "$10.88"
   },
@@ -499,7 +499,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.07,
     "RawValue": "$9.07"
   },
@@ -507,7 +507,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 7.26,
     "RawValue": "$7.26"
   },
@@ -515,7 +515,7 @@
     "Symbol": "AVGO",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 27.3,
     "RawValue": "27.3x"
   },
@@ -523,7 +523,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 531.9,
     "RawValue": "531.9B"
   },
@@ -531,7 +531,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 462.5,
     "RawValue": "462.5B"
   },
@@ -539,7 +539,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 393.1,
     "RawValue": "393.1B"
   },
@@ -547,7 +547,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 585.1,
     "RawValue": "585.1B"
   },
@@ -555,7 +555,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 508.8,
     "RawValue": "508.8B"
   },
@@ -563,7 +563,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 432.5,
     "RawValue": "432.5B"
   },
@@ -571,7 +571,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 11.1,
     "RawValue": "$11.1"
   },
@@ -579,7 +579,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.25,
     "RawValue": "$9.25"
   },
@@ -587,7 +587,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 7.4,
     "RawValue": "$7.4"
   },
@@ -595,7 +595,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.88,
     "RawValue": "$12.88"
   },
@@ -603,7 +603,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.73,
     "RawValue": "$10.73"
   },
@@ -611,7 +611,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.58,
     "RawValue": "$8.58"
   },
@@ -619,7 +619,7 @@
     "Symbol": "MU",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 30.5,
     "RawValue": "30.5x"
   },
@@ -627,7 +627,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 517.5,
     "RawValue": "517.5B"
   },
@@ -635,7 +635,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 450.0,
     "RawValue": "450.0B"
   },
@@ -643,7 +643,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 382.5,
     "RawValue": "382.5B"
   },
@@ -651,7 +651,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 584.8,
     "RawValue": "584.8B"
   },
@@ -659,7 +659,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 508.5,
     "RawValue": "508.5B"
   },
@@ -667,7 +667,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 432.2,
     "RawValue": "432.2B"
   },
@@ -675,7 +675,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 12.48,
     "RawValue": "$12.48"
   },
@@ -683,7 +683,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 10.4,
     "RawValue": "$10.4"
   },
@@ -691,7 +691,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.32,
     "RawValue": "$8.32"
   },
@@ -699,7 +699,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 14.98,
     "RawValue": "$14.98"
   },
@@ -707,7 +707,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.48,
     "RawValue": "$12.48"
   },
@@ -715,7 +715,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.98,
     "RawValue": "$9.98"
   },
@@ -723,7 +723,7 @@
     "Symbol": "SKHY",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 33.7,
     "RawValue": "33.7x"
   },
@@ -731,7 +731,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 503.1,
     "RawValue": "503.1B"
   },
@@ -739,7 +739,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 437.5,
     "RawValue": "437.5B"
   },
@@ -747,7 +747,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 371.9,
     "RawValue": "371.9B"
   },
@@ -755,7 +755,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 583.6,
     "RawValue": "583.6B"
   },
@@ -763,7 +763,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 507.5,
     "RawValue": "507.5B"
   },
@@ -771,7 +771,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 431.4,
     "RawValue": "431.4B"
   },
@@ -779,7 +779,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.2,
     "RawValue": "$4.2"
   },
@@ -787,7 +787,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.5,
     "RawValue": "$3.5"
   },
@@ -795,7 +795,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 2.8,
     "RawValue": "$2.8"
   },
@@ -803,7 +803,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.21,
     "RawValue": "$5.21"
   },
@@ -811,7 +811,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.34,
     "RawValue": "$4.34"
   },
@@ -819,7 +819,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.47,
     "RawValue": "$3.47"
   },
@@ -827,7 +827,7 @@
     "Symbol": "AMD",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 36.9,
     "RawValue": "36.9x"
   },
@@ -835,7 +835,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 488.7,
     "RawValue": "488.7B"
   },
@@ -843,7 +843,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 425.0,
     "RawValue": "425.0B"
   },
@@ -851,7 +851,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 361.2,
     "RawValue": "361.2B"
   },
@@ -859,7 +859,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 581.7,
     "RawValue": "581.7B"
   },
@@ -867,7 +867,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 505.8,
     "RawValue": "505.8B"
   },
@@ -875,7 +875,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 429.9,
     "RawValue": "429.9B"
   },
@@ -883,7 +883,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.58,
     "RawValue": "$5.58"
   },
@@ -891,7 +891,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.65,
     "RawValue": "$4.65"
   },
@@ -899,7 +899,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.72,
     "RawValue": "$3.72"
   },
@@ -907,7 +907,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.25,
     "RawValue": "$6.25"
   },
@@ -915,7 +915,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.21,
     "RawValue": "$5.21"
   },
@@ -923,7 +923,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.17,
     "RawValue": "$4.17"
   },
@@ -931,7 +931,7 @@
     "Symbol": "ASML",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 40.1,
     "RawValue": "40.1x"
   },
@@ -939,7 +939,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 474.4,
     "RawValue": "474.4B"
   },
@@ -947,7 +947,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 412.5,
     "RawValue": "412.5B"
   },
@@ -955,7 +955,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 350.6,
     "RawValue": "350.6B"
   },
@@ -963,7 +963,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 578.8,
     "RawValue": "578.8B"
   },
@@ -971,7 +971,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 503.3,
     "RawValue": "503.3B"
   },
@@ -979,7 +979,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 427.8,
     "RawValue": "427.8B"
   },
@@ -987,7 +987,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -995,7 +995,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.8,
     "RawValue": "$5.8"
   },
@@ -1003,7 +1003,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.64,
     "RawValue": "$4.64"
   },
@@ -1011,7 +1011,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.08,
     "RawValue": "$8.08"
   },
@@ -1019,7 +1019,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.73,
     "RawValue": "$6.73"
   },
@@ -1027,7 +1027,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.38,
     "RawValue": "$5.38"
   },
@@ -1035,7 +1035,7 @@
     "Symbol": "INTC",
     "Sector": "Technology",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 14.5,
     "RawValue": "14.5x"
   },
@@ -1043,7 +1043,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 460.0,
     "RawValue": "460.0B"
   },
@@ -1051,7 +1051,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 400.0,
     "RawValue": "400.0B"
   },
@@ -1059,7 +1059,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 340.0,
     "RawValue": "340.0B"
   },
@@ -1067,7 +1067,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 506.0,
     "RawValue": "506.0B"
   },
@@ -1075,7 +1075,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 440.0,
     "RawValue": "440.0B"
   },
@@ -1083,7 +1083,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 374.0,
     "RawValue": "374.0B"
   },
@@ -1091,7 +1091,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -1099,7 +1099,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.95,
     "RawValue": "$6.95"
   },
@@ -1107,7 +1107,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.56,
     "RawValue": "$5.56"
   },
@@ -1115,7 +1115,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.01,
     "RawValue": "$10.01"
   },
@@ -1123,7 +1123,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -1131,7 +1131,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.67,
     "RawValue": "$6.67"
   },
@@ -1139,7 +1139,7 @@
     "Symbol": "LLY",
     "Sector": "Healthcare",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 17.7,
     "RawValue": "17.7x"
   },
@@ -1147,7 +1147,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 445.6,
     "RawValue": "445.6B"
   },
@@ -1155,7 +1155,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 387.5,
     "RawValue": "387.5B"
   },
@@ -1163,7 +1163,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 329.4,
     "RawValue": "329.4B"
   },
@@ -1171,7 +1171,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 503.6,
     "RawValue": "503.6B"
   },
@@ -1179,7 +1179,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 437.9,
     "RawValue": "437.9B"
   },
@@ -1187,7 +1187,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 372.2,
     "RawValue": "372.2B"
   },
@@ -1195,7 +1195,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.72,
     "RawValue": "$9.72"
   },
@@ -1203,7 +1203,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.1,
     "RawValue": "$8.1"
   },
@@ -1211,7 +1211,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.48,
     "RawValue": "$6.48"
   },
@@ -1219,7 +1219,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.05,
     "RawValue": "$12.05"
   },
@@ -1227,7 +1227,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.04,
     "RawValue": "$10.04"
   },
@@ -1235,7 +1235,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.03,
     "RawValue": "$8.03"
   },
@@ -1243,7 +1243,7 @@
     "Symbol": "UNH",
     "Sector": "Healthcare",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 20.9,
     "RawValue": "20.9x"
   },
@@ -1251,7 +1251,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 431.2,
     "RawValue": "431.2B"
   },
@@ -1259,7 +1259,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 375.0,
     "RawValue": "375.0B"
   },
@@ -1267,7 +1267,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 318.8,
     "RawValue": "318.8B"
   },
@@ -1275,7 +1275,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 500.2,
     "RawValue": "500.2B"
   },
@@ -1283,7 +1283,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 435.0,
     "RawValue": "435.0B"
   },
@@ -1291,7 +1291,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 369.8,
     "RawValue": "369.8B"
   },
@@ -1299,7 +1299,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 11.1,
     "RawValue": "$11.1"
   },
@@ -1307,7 +1307,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.25,
     "RawValue": "$9.25"
   },
@@ -1315,7 +1315,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 7.4,
     "RawValue": "$7.4"
   },
@@ -1323,7 +1323,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.43,
     "RawValue": "$12.43"
   },
@@ -1331,7 +1331,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.36,
     "RawValue": "$10.36"
   },
@@ -1339,7 +1339,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.29,
     "RawValue": "$8.29"
   },
@@ -1347,7 +1347,7 @@
     "Symbol": "JNJ",
     "Sector": "Healthcare",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 24.1,
     "RawValue": "24.1x"
   },
@@ -1355,7 +1355,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 416.9,
     "RawValue": "416.9B"
   },
@@ -1363,7 +1363,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 362.5,
     "RawValue": "362.5B"
   },
@@ -1371,7 +1371,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 308.1,
     "RawValue": "308.1B"
   },
@@ -1379,7 +1379,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 496.1,
     "RawValue": "496.1B"
   },
@@ -1387,7 +1387,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 431.4,
     "RawValue": "431.4B"
   },
@@ -1395,7 +1395,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 366.7,
     "RawValue": "366.7B"
   },
@@ -1403,7 +1403,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 12.48,
     "RawValue": "$12.48"
   },
@@ -1411,7 +1411,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 10.4,
     "RawValue": "$10.4"
   },
@@ -1419,7 +1419,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.32,
     "RawValue": "$8.32"
   },
@@ -1427,7 +1427,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 14.47,
     "RawValue": "$14.47"
   },
@@ -1435,7 +1435,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.06,
     "RawValue": "$12.06"
   },
@@ -1443,7 +1443,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.65,
     "RawValue": "$9.65"
   },
@@ -1451,7 +1451,7 @@
     "Symbol": "JPM",
     "Sector": "Financials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 27.3,
     "RawValue": "27.3x"
   },
@@ -1459,7 +1459,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 402.5,
     "RawValue": "402.5B"
   },
@@ -1467,7 +1467,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 350.0,
     "RawValue": "350.0B"
   },
@@ -1475,7 +1475,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 297.5,
     "RawValue": "297.5B"
   },
@@ -1483,7 +1483,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 491.0,
     "RawValue": "491.0B"
   },
@@ -1491,7 +1491,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 427.0,
     "RawValue": "427.0B"
   },
@@ -1499,7 +1499,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 362.9,
     "RawValue": "362.9B"
   },
@@ -1507,7 +1507,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.2,
     "RawValue": "$4.2"
   },
@@ -1515,7 +1515,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.5,
     "RawValue": "$3.5"
   },
@@ -1523,7 +1523,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 2.8,
     "RawValue": "$2.8"
   },
@@ -1531,7 +1531,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.04,
     "RawValue": "$5.04"
   },
@@ -1539,7 +1539,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.2,
     "RawValue": "$4.2"
   },
@@ -1547,7 +1547,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.36,
     "RawValue": "$3.36"
   },
@@ -1555,7 +1555,7 @@
     "Symbol": "BAC",
     "Sector": "Financials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 30.5,
     "RawValue": "30.5x"
   },
@@ -1563,7 +1563,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 388.1,
     "RawValue": "388.1B"
   },
@@ -1571,7 +1571,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 337.5,
     "RawValue": "337.5B"
   },
@@ -1579,7 +1579,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 286.9,
     "RawValue": "286.9B"
   },
@@ -1587,7 +1587,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 427.0,
     "RawValue": "427.0B"
   },
@@ -1595,7 +1595,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 371.3,
     "RawValue": "371.3B"
   },
@@ -1603,7 +1603,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 315.6,
     "RawValue": "315.6B"
   },
@@ -1611,7 +1611,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.58,
     "RawValue": "$5.58"
   },
@@ -1619,7 +1619,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.65,
     "RawValue": "$4.65"
   },
@@ -1627,7 +1627,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.72,
     "RawValue": "$3.72"
   },
@@ -1635,7 +1635,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.92,
     "RawValue": "$6.92"
   },
@@ -1643,7 +1643,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.77,
     "RawValue": "$5.77"
   },
@@ -1651,7 +1651,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.62,
     "RawValue": "$4.62"
   },
@@ -1659,7 +1659,7 @@
     "Symbol": "WFC",
     "Sector": "Financials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 33.7,
     "RawValue": "33.7x"
   },
@@ -1667,7 +1667,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 373.7,
     "RawValue": "373.7B"
   },
@@ -1675,7 +1675,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 325.0,
     "RawValue": "325.0B"
   },
@@ -1683,7 +1683,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 276.2,
     "RawValue": "276.2B"
   },
@@ -1691,7 +1691,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 422.4,
     "RawValue": "422.4B"
   },
@@ -1699,7 +1699,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 367.3,
     "RawValue": "367.3B"
   },
@@ -1707,7 +1707,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 312.2,
     "RawValue": "312.2B"
   },
@@ -1715,7 +1715,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -1723,7 +1723,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.8,
     "RawValue": "$5.8"
   },
@@ -1731,7 +1731,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.64,
     "RawValue": "$4.64"
   },
@@ -1739,7 +1739,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 7.8,
     "RawValue": "$7.8"
   },
@@ -1747,7 +1747,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.5,
     "RawValue": "$6.5"
   },
@@ -1755,7 +1755,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.2,
     "RawValue": "$5.2"
   },
@@ -1763,7 +1763,7 @@
     "Symbol": "AMZN",
     "Sector": "Consumer Discretionary",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 36.9,
     "RawValue": "36.9x"
   },
@@ -1771,7 +1771,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 359.4,
     "RawValue": "359.4B"
   },
@@ -1779,7 +1779,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 312.5,
     "RawValue": "312.5B"
   },
@@ -1787,7 +1787,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 265.6,
     "RawValue": "265.6B"
   },
@@ -1795,7 +1795,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 416.9,
     "RawValue": "416.9B"
   },
@@ -1803,7 +1803,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 362.5,
     "RawValue": "362.5B"
   },
@@ -1811,7 +1811,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 308.1,
     "RawValue": "308.1B"
   },
@@ -1819,7 +1819,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -1827,7 +1827,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.95,
     "RawValue": "$6.95"
   },
@@ -1835,7 +1835,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.56,
     "RawValue": "$5.56"
   },
@@ -1843,7 +1843,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.67,
     "RawValue": "$9.67"
   },
@@ -1851,7 +1851,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.06,
     "RawValue": "$8.06"
   },
@@ -1859,7 +1859,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.45,
     "RawValue": "$6.45"
   },
@@ -1867,7 +1867,7 @@
     "Symbol": "TSLA",
     "Sector": "Consumer Discretionary",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 40.1,
     "RawValue": "40.1x"
   },
@@ -1875,7 +1875,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 345.0,
     "RawValue": "345.0B"
   },
@@ -1883,7 +1883,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 300.0,
     "RawValue": "300.0B"
   },
@@ -1891,7 +1891,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 255.0,
     "RawValue": "255.0B"
   },
@@ -1899,7 +1899,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 410.5,
     "RawValue": "410.5B"
   },
@@ -1907,7 +1907,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 357.0,
     "RawValue": "357.0B"
   },
@@ -1915,7 +1915,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 303.4,
     "RawValue": "303.4B"
   },
@@ -1923,7 +1923,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.72,
     "RawValue": "$9.72"
   },
@@ -1931,7 +1931,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.1,
     "RawValue": "$8.1"
   },
@@ -1939,7 +1939,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.48,
     "RawValue": "$6.48"
   },
@@ -1947,7 +1947,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 11.66,
     "RawValue": "$11.66"
   },
@@ -1955,7 +1955,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.72,
     "RawValue": "$9.72"
   },
@@ -1963,7 +1963,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 7.78,
     "RawValue": "$7.78"
   },
@@ -1971,7 +1971,7 @@
     "Symbol": "HD",
     "Sector": "Consumer Discretionary",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 14.5,
     "RawValue": "14.5x"
   },
@@ -1979,7 +1979,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 330.6,
     "RawValue": "330.6B"
   },
@@ -1987,7 +1987,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 287.5,
     "RawValue": "287.5B"
   },
@@ -1995,7 +1995,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 244.4,
     "RawValue": "244.4B"
   },
@@ -2003,7 +2003,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 403.4,
     "RawValue": "403.4B"
   },
@@ -2011,7 +2011,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 350.8,
     "RawValue": "350.8B"
   },
@@ -2019,7 +2019,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 298.2,
     "RawValue": "298.2B"
   },
@@ -2027,7 +2027,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 11.1,
     "RawValue": "$11.1"
   },
@@ -2035,7 +2035,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.25,
     "RawValue": "$9.25"
   },
@@ -2043,7 +2043,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 7.4,
     "RawValue": "$7.4"
   },
@@ -2051,7 +2051,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 13.76,
     "RawValue": "$13.76"
   },
@@ -2059,7 +2059,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 11.47,
     "RawValue": "$11.47"
   },
@@ -2067,7 +2067,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.18,
     "RawValue": "$9.18"
   },
@@ -2075,7 +2075,7 @@
     "Symbol": "GOOGL",
     "Sector": "Communication Services",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 17.7,
     "RawValue": "17.7x"
   },
@@ -2083,7 +2083,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 316.2,
     "RawValue": "316.2B"
   },
@@ -2091,7 +2091,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 275.0,
     "RawValue": "275.0B"
   },
@@ -2099,7 +2099,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 233.8,
     "RawValue": "233.8B"
   },
@@ -2107,7 +2107,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 347.9,
     "RawValue": "347.9B"
   },
@@ -2115,7 +2115,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 302.5,
     "RawValue": "302.5B"
   },
@@ -2123,7 +2123,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 257.1,
     "RawValue": "257.1B"
   },
@@ -2131,7 +2131,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 12.48,
     "RawValue": "$12.48"
   },
@@ -2139,7 +2139,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 10.4,
     "RawValue": "$10.4"
   },
@@ -2147,7 +2147,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.32,
     "RawValue": "$8.32"
   },
@@ -2155,7 +2155,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 13.98,
     "RawValue": "$13.98"
   },
@@ -2163,7 +2163,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 11.65,
     "RawValue": "$11.65"
   },
@@ -2171,7 +2171,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.32,
     "RawValue": "$9.32"
   },
@@ -2179,7 +2179,7 @@
     "Symbol": "META",
     "Sector": "Communication Services",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 20.9,
     "RawValue": "20.9x"
   },
@@ -2187,7 +2187,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 301.9,
     "RawValue": "301.9B"
   },
@@ -2195,7 +2195,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 262.5,
     "RawValue": "262.5B"
   },
@@ -2203,7 +2203,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 223.1,
     "RawValue": "223.1B"
   },
@@ -2211,7 +2211,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 341.1,
     "RawValue": "341.1B"
   },
@@ -2219,7 +2219,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 296.6,
     "RawValue": "296.6B"
   },
@@ -2227,7 +2227,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 252.1,
     "RawValue": "252.1B"
   },
@@ -2235,7 +2235,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.2,
     "RawValue": "$4.2"
   },
@@ -2243,7 +2243,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.5,
     "RawValue": "$3.5"
   },
@@ -2251,7 +2251,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 2.8,
     "RawValue": "$2.8"
   },
@@ -2259,7 +2259,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.87,
     "RawValue": "$4.87"
   },
@@ -2267,7 +2267,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.06,
     "RawValue": "$4.06"
   },
@@ -2275,7 +2275,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.25,
     "RawValue": "$3.25"
   },
@@ -2283,7 +2283,7 @@
     "Symbol": "NFLX",
     "Sector": "Communication Services",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 24.1,
     "RawValue": "24.1x"
   },
@@ -2291,7 +2291,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 287.5,
     "RawValue": "287.5B"
   },
@@ -2299,7 +2299,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 250.0,
     "RawValue": "250.0B"
   },
@@ -2307,7 +2307,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 212.5,
     "RawValue": "212.5B"
   },
@@ -2315,7 +2315,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 333.5,
     "RawValue": "333.5B"
   },
@@ -2323,7 +2323,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 290.0,
     "RawValue": "290.0B"
   },
@@ -2331,7 +2331,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 246.5,
     "RawValue": "246.5B"
   },
@@ -2339,7 +2339,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.58,
     "RawValue": "$5.58"
   },
@@ -2347,7 +2347,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.65,
     "RawValue": "$4.65"
   },
@@ -2355,7 +2355,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.72,
     "RawValue": "$3.72"
   },
@@ -2363,7 +2363,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.7,
     "RawValue": "$6.7"
   },
@@ -2371,7 +2371,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.58,
     "RawValue": "$5.58"
   },
@@ -2379,7 +2379,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.46,
     "RawValue": "$4.46"
   },
@@ -2387,7 +2387,7 @@
     "Symbol": "GE",
     "Sector": "Industrials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 27.3,
     "RawValue": "27.3x"
   },
@@ -2395,7 +2395,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 273.1,
     "RawValue": "273.1B"
   },
@@ -2403,7 +2403,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 237.5,
     "RawValue": "237.5B"
   },
@@ -2411,7 +2411,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 201.9,
     "RawValue": "201.9B"
   },
@@ -2419,7 +2419,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 325.0,
     "RawValue": "325.0B"
   },
@@ -2427,7 +2427,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 282.6,
     "RawValue": "282.6B"
   },
@@ -2435,7 +2435,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 240.2,
     "RawValue": "240.2B"
   },
@@ -2443,7 +2443,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -2451,7 +2451,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.8,
     "RawValue": "$5.8"
   },
@@ -2459,7 +2459,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.64,
     "RawValue": "$4.64"
   },
@@ -2467,7 +2467,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.63,
     "RawValue": "$8.63"
   },
@@ -2475,7 +2475,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 7.19,
     "RawValue": "$7.19"
   },
@@ -2483,7 +2483,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.75,
     "RawValue": "$5.75"
   },
@@ -2491,7 +2491,7 @@
     "Symbol": "CAT",
     "Sector": "Industrials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 30.5,
     "RawValue": "30.5x"
   },
@@ -2499,7 +2499,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 258.8,
     "RawValue": "258.8B"
   },
@@ -2507,7 +2507,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 225.0,
     "RawValue": "225.0B"
   },
@@ -2515,7 +2515,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 191.2,
     "RawValue": "191.2B"
   },
@@ -2523,7 +2523,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 315.7,
     "RawValue": "315.7B"
   },
@@ -2531,7 +2531,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 274.5,
     "RawValue": "274.5B"
   },
@@ -2539,7 +2539,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 233.3,
     "RawValue": "233.3B"
   },
@@ -2547,7 +2547,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -2555,7 +2555,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.95,
     "RawValue": "$6.95"
   },
@@ -2563,7 +2563,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.56,
     "RawValue": "$5.56"
   },
@@ -2571,7 +2571,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.34,
     "RawValue": "$9.34"
   },
@@ -2579,7 +2579,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 7.78,
     "RawValue": "$7.78"
   },
@@ -2587,7 +2587,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.22,
     "RawValue": "$6.22"
   },
@@ -2595,7 +2595,7 @@
     "Symbol": "RTX",
     "Sector": "Industrials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 33.7,
     "RawValue": "33.7x"
   },
@@ -2603,7 +2603,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 244.4,
     "RawValue": "244.4B"
   },
@@ -2611,7 +2611,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 212.5,
     "RawValue": "212.5B"
   },
@@ -2619,7 +2619,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 180.6,
     "RawValue": "180.6B"
   },
@@ -2627,7 +2627,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 268.9,
     "RawValue": "268.9B"
   },
@@ -2635,7 +2635,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 233.8,
     "RawValue": "233.8B"
   },
@@ -2643,7 +2643,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 198.7,
     "RawValue": "198.7B"
   },
@@ -2651,7 +2651,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.72,
     "RawValue": "$9.72"
   },
@@ -2659,7 +2659,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.1,
     "RawValue": "$8.1"
   },
@@ -2667,7 +2667,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.48,
     "RawValue": "$6.48"
   },
@@ -2675,7 +2675,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 11.28,
     "RawValue": "$11.28"
   },
@@ -2683,7 +2683,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.4,
     "RawValue": "$9.4"
   },
@@ -2691,7 +2691,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 7.52,
     "RawValue": "$7.52"
   },
@@ -2699,7 +2699,7 @@
     "Symbol": "PG",
     "Sector": "Consumer Staples",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 36.9,
     "RawValue": "36.9x"
   },
@@ -2707,7 +2707,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 230.0,
     "RawValue": "230.0B"
   },
@@ -2715,7 +2715,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 200.0,
     "RawValue": "200.0B"
   },
@@ -2723,7 +2723,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 170.0,
     "RawValue": "170.0B"
   },
@@ -2731,7 +2731,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 259.9,
     "RawValue": "259.9B"
   },
@@ -2739,7 +2739,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 226.0,
     "RawValue": "226.0B"
   },
@@ -2747,7 +2747,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 192.1,
     "RawValue": "192.1B"
   },
@@ -2755,7 +2755,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 11.1,
     "RawValue": "$11.1"
   },
@@ -2763,7 +2763,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.25,
     "RawValue": "$9.25"
   },
@@ -2771,7 +2771,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 7.4,
     "RawValue": "$7.4"
   },
@@ -2779,7 +2779,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 13.32,
     "RawValue": "$13.32"
   },
@@ -2787,7 +2787,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 11.1,
     "RawValue": "$11.1"
   },
@@ -2795,7 +2795,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.88,
     "RawValue": "$8.88"
   },
@@ -2803,7 +2803,7 @@
     "Symbol": "COST",
     "Sector": "Consumer Staples",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 40.1,
     "RawValue": "40.1x"
   },
@@ -2811,7 +2811,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 215.6,
     "RawValue": "215.6B"
   },
@@ -2819,7 +2819,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 187.5,
     "RawValue": "187.5B"
   },
@@ -2827,7 +2827,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 159.4,
     "RawValue": "159.4B"
   },
@@ -2835,7 +2835,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 250.1,
     "RawValue": "250.1B"
   },
@@ -2843,7 +2843,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 217.5,
     "RawValue": "217.5B"
   },
@@ -2851,7 +2851,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 184.9,
     "RawValue": "184.9B"
   },
@@ -2859,7 +2859,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 12.48,
     "RawValue": "$12.48"
   },
@@ -2867,7 +2867,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 10.4,
     "RawValue": "$10.4"
   },
@@ -2875,7 +2875,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.32,
     "RawValue": "$8.32"
   },
@@ -2883,7 +2883,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 15.48,
     "RawValue": "$15.48"
   },
@@ -2891,7 +2891,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.9,
     "RawValue": "$12.9"
   },
@@ -2899,7 +2899,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.32,
     "RawValue": "$10.32"
   },
@@ -2907,7 +2907,7 @@
     "Symbol": "WMT",
     "Sector": "Consumer Staples",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 14.5,
     "RawValue": "14.5x"
   },
@@ -2915,7 +2915,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 201.2,
     "RawValue": "201.2B"
   },
@@ -2923,7 +2923,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 175.0,
     "RawValue": "175.0B"
   },
@@ -2931,7 +2931,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 148.8,
     "RawValue": "148.8B"
   },
@@ -2939,7 +2939,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 239.5,
     "RawValue": "239.5B"
   },
@@ -2947,7 +2947,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 208.3,
     "RawValue": "208.3B"
   },
@@ -2955,7 +2955,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 177.1,
     "RawValue": "177.1B"
   },
@@ -2963,7 +2963,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.2,
     "RawValue": "$4.2"
   },
@@ -2971,7 +2971,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.5,
     "RawValue": "$3.5"
   },
@@ -2979,7 +2979,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 2.8,
     "RawValue": "$2.8"
   },
@@ -2987,7 +2987,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.7,
     "RawValue": "$4.7"
   },
@@ -2995,7 +2995,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.92,
     "RawValue": "$3.92"
   },
@@ -3003,7 +3003,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.14,
     "RawValue": "$3.14"
   },
@@ -3011,7 +3011,7 @@
     "Symbol": "XOM",
     "Sector": "Energy",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 17.7,
     "RawValue": "17.7x"
   },
@@ -3019,7 +3019,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 186.9,
     "RawValue": "186.9B"
   },
@@ -3027,7 +3027,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 162.5,
     "RawValue": "162.5B"
   },
@@ -3035,7 +3035,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 138.1,
     "RawValue": "138.1B"
   },
@@ -3043,7 +3043,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 228.0,
     "RawValue": "228.0B"
   },
@@ -3051,7 +3051,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 198.3,
     "RawValue": "198.3B"
   },
@@ -3059,7 +3059,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 168.6,
     "RawValue": "168.6B"
   },
@@ -3067,7 +3067,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.58,
     "RawValue": "$5.58"
   },
@@ -3075,7 +3075,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.65,
     "RawValue": "$4.65"
   },
@@ -3083,7 +3083,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.72,
     "RawValue": "$3.72"
   },
@@ -3091,7 +3091,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.47,
     "RawValue": "$6.47"
   },
@@ -3099,7 +3099,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.39,
     "RawValue": "$5.39"
   },
@@ -3107,7 +3107,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.31,
     "RawValue": "$4.31"
   },
@@ -3115,7 +3115,7 @@
     "Symbol": "CVX",
     "Sector": "Energy",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 20.9,
     "RawValue": "20.9x"
   },
@@ -3123,7 +3123,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 172.5,
     "RawValue": "172.5B"
   },
@@ -3131,7 +3131,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 150.0,
     "RawValue": "150.0B"
   },
@@ -3139,7 +3139,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 127.5,
     "RawValue": "127.5B"
   },
@@ -3147,7 +3147,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 189.7,
     "RawValue": "189.7B"
   },
@@ -3155,7 +3155,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 165.0,
     "RawValue": "165.0B"
   },
@@ -3163,7 +3163,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 140.2,
     "RawValue": "140.2B"
   },
@@ -3171,7 +3171,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -3179,7 +3179,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.8,
     "RawValue": "$5.8"
   },
@@ -3187,7 +3187,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.64,
     "RawValue": "$4.64"
   },
@@ -3195,7 +3195,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.35,
     "RawValue": "$8.35"
   },
@@ -3203,7 +3203,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -3211,7 +3211,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.57,
     "RawValue": "$5.57"
   },
@@ -3219,7 +3219,7 @@
     "Symbol": "COP",
     "Sector": "Energy",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 24.1,
     "RawValue": "24.1x"
   },
@@ -3227,7 +3227,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 158.1,
     "RawValue": "158.1B"
   },
@@ -3235,7 +3235,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 137.5,
     "RawValue": "137.5B"
   },
@@ -3243,7 +3243,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 116.9,
     "RawValue": "116.9B"
   },
@@ -3251,7 +3251,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 178.7,
     "RawValue": "178.7B"
   },
@@ -3259,7 +3259,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 155.4,
     "RawValue": "155.4B"
   },
@@ -3267,7 +3267,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 132.1,
     "RawValue": "132.1B"
   },
@@ -3275,7 +3275,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -3283,7 +3283,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.95,
     "RawValue": "$6.95"
   },
@@ -3291,7 +3291,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.56,
     "RawValue": "$5.56"
   },
@@ -3299,7 +3299,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.34,
     "RawValue": "$10.34"
   },
@@ -3307,7 +3307,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.62,
     "RawValue": "$8.62"
   },
@@ -3315,7 +3315,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.9,
     "RawValue": "$6.9"
   },
@@ -3323,7 +3323,7 @@
     "Symbol": "NEE",
     "Sector": "Utilities",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 27.3,
     "RawValue": "27.3x"
   },
@@ -3331,7 +3331,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 143.8,
     "RawValue": "143.8B"
   },
@@ -3339,7 +3339,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 125.0,
     "RawValue": "125.0B"
   },
@@ -3347,7 +3347,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 106.2,
     "RawValue": "106.2B"
   },
@@ -3355,7 +3355,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 166.8,
     "RawValue": "166.8B"
   },
@@ -3363,7 +3363,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 145.0,
     "RawValue": "145.0B"
   },
@@ -3371,7 +3371,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 123.2,
     "RawValue": "123.2B"
   },
@@ -3379,7 +3379,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.72,
     "RawValue": "$9.72"
   },
@@ -3387,7 +3387,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.1,
     "RawValue": "$8.1"
   },
@@ -3395,7 +3395,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.48,
     "RawValue": "$6.48"
   },
@@ -3403,7 +3403,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.88,
     "RawValue": "$10.88"
   },
@@ -3411,7 +3411,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.07,
     "RawValue": "$9.07"
   },
@@ -3419,7 +3419,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 7.26,
     "RawValue": "$7.26"
   },
@@ -3427,7 +3427,7 @@
     "Symbol": "SO",
     "Sector": "Utilities",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 30.5,
     "RawValue": "30.5x"
   },
@@ -3435,7 +3435,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 129.4,
     "RawValue": "129.4B"
   },
@@ -3443,7 +3443,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 112.5,
     "RawValue": "112.5B"
   },
@@ -3451,7 +3451,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 95.6,
     "RawValue": "95.6B"
   },
@@ -3459,7 +3459,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 154.0,
     "RawValue": "154.0B"
   },
@@ -3467,7 +3467,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 133.9,
     "RawValue": "133.9B"
   },
@@ -3475,7 +3475,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 113.8,
     "RawValue": "113.8B"
   },
@@ -3483,7 +3483,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 11.1,
     "RawValue": "$11.1"
   },
@@ -3491,7 +3491,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.25,
     "RawValue": "$9.25"
   },
@@ -3499,7 +3499,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 7.4,
     "RawValue": "$7.4"
   },
@@ -3507,7 +3507,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.88,
     "RawValue": "$12.88"
   },
@@ -3515,7 +3515,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.73,
     "RawValue": "$10.73"
   },
@@ -3523,7 +3523,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.58,
     "RawValue": "$8.58"
   },
@@ -3531,7 +3531,7 @@
     "Symbol": "DUK",
     "Sector": "Utilities",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 33.7,
     "RawValue": "33.7x"
   },
@@ -3539,7 +3539,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 115.0,
     "RawValue": "115.0B"
   },
@@ -3547,7 +3547,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 100.0,
     "RawValue": "100.0B"
   },
@@ -3555,7 +3555,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 85.0,
     "RawValue": "85.0B"
   },
@@ -3563,7 +3563,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 140.3,
     "RawValue": "140.3B"
   },
@@ -3571,7 +3571,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 122.0,
     "RawValue": "122.0B"
   },
@@ -3579,7 +3579,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 103.7,
     "RawValue": "103.7B"
   },
@@ -3587,7 +3587,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 12.48,
     "RawValue": "$12.48"
   },
@@ -3595,7 +3595,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 10.4,
     "RawValue": "$10.4"
   },
@@ -3603,7 +3603,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.32,
     "RawValue": "$8.32"
   },
@@ -3611,7 +3611,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 14.98,
     "RawValue": "$14.98"
   },
@@ -3619,7 +3619,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.48,
     "RawValue": "$12.48"
   },
@@ -3627,7 +3627,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 9.98,
     "RawValue": "$9.98"
   },
@@ -3635,7 +3635,7 @@
     "Symbol": "PLD",
     "Sector": "Real Estate",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 36.9,
     "RawValue": "36.9x"
   },
@@ -3643,7 +3643,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 100.6,
     "RawValue": "100.6B"
   },
@@ -3651,7 +3651,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 87.5,
     "RawValue": "87.5B"
   },
@@ -3659,7 +3659,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 74.4,
     "RawValue": "74.4B"
   },
@@ -3667,7 +3667,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 110.7,
     "RawValue": "110.7B"
   },
@@ -3675,7 +3675,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 96.3,
     "RawValue": "96.3B"
   },
@@ -3683,7 +3683,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 81.9,
     "RawValue": "81.9B"
   },
@@ -3691,7 +3691,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.2,
     "RawValue": "$4.2"
   },
@@ -3699,7 +3699,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.5,
     "RawValue": "$3.5"
   },
@@ -3707,7 +3707,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 2.8,
     "RawValue": "$2.8"
   },
@@ -3715,7 +3715,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.21,
     "RawValue": "$5.21"
   },
@@ -3723,7 +3723,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.34,
     "RawValue": "$4.34"
   },
@@ -3731,7 +3731,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 3.47,
     "RawValue": "$3.47"
   },
@@ -3739,7 +3739,7 @@
     "Symbol": "AMT",
     "Sector": "Real Estate",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 40.1,
     "RawValue": "40.1x"
   },
@@ -3747,7 +3747,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 86.2,
     "RawValue": "86.2B"
   },
@@ -3755,7 +3755,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 75.0,
     "RawValue": "75.0B"
   },
@@ -3763,7 +3763,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 63.8,
     "RawValue": "63.8B"
   },
@@ -3771,7 +3771,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 97.5,
     "RawValue": "97.5B"
   },
@@ -3779,7 +3779,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 84.8,
     "RawValue": "84.8B"
   },
@@ -3787,7 +3787,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 72.1,
     "RawValue": "72.1B"
   },
@@ -3795,7 +3795,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.58,
     "RawValue": "$5.58"
   },
@@ -3803,7 +3803,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.65,
     "RawValue": "$4.65"
   },
@@ -3811,7 +3811,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 3.72,
     "RawValue": "$3.72"
   },
@@ -3819,7 +3819,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.25,
     "RawValue": "$6.25"
   },
@@ -3827,7 +3827,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.21,
     "RawValue": "$5.21"
   },
@@ -3835,7 +3835,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 4.17,
     "RawValue": "$4.17"
   },
@@ -3843,7 +3843,7 @@
     "Symbol": "EQIX",
     "Sector": "Real Estate",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 14.5,
     "RawValue": "14.5x"
   },
@@ -3851,7 +3851,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 71.9,
     "RawValue": "71.9B"
   },
@@ -3859,7 +3859,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 62.5,
     "RawValue": "62.5B"
   },
@@ -3867,7 +3867,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 53.1,
     "RawValue": "53.1B"
   },
@@ -3875,7 +3875,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 83.4,
     "RawValue": "83.4B"
   },
@@ -3883,7 +3883,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 72.5,
     "RawValue": "72.5B"
   },
@@ -3891,7 +3891,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 61.6,
     "RawValue": "61.6B"
   },
@@ -3899,7 +3899,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.96,
     "RawValue": "$6.96"
   },
@@ -3907,7 +3907,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.8,
     "RawValue": "$5.8"
   },
@@ -3915,7 +3915,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 4.64,
     "RawValue": "$4.64"
   },
@@ -3923,7 +3923,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.08,
     "RawValue": "$8.08"
   },
@@ -3931,7 +3931,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.73,
     "RawValue": "$6.73"
   },
@@ -3939,7 +3939,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 5.38,
     "RawValue": "$5.38"
   },
@@ -3947,7 +3947,7 @@
     "Symbol": "LIN",
     "Sector": "Basic Materials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 17.7,
     "RawValue": "17.7x"
   },
@@ -3955,7 +3955,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 57.5,
     "RawValue": "57.5B"
   },
@@ -3963,7 +3963,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 50.0,
     "RawValue": "50.0B"
   },
@@ -3971,7 +3971,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 42.5,
     "RawValue": "42.5B"
   },
@@ -3979,7 +3979,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 68.4,
     "RawValue": "68.4B"
   },
@@ -3987,7 +3987,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 59.5,
     "RawValue": "59.5B"
   },
@@ -3995,7 +3995,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 50.6,
     "RawValue": "50.6B"
   },
@@ -4003,7 +4003,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -4011,7 +4011,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.95,
     "RawValue": "$6.95"
   },
@@ -4019,7 +4019,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 5.56,
     "RawValue": "$5.56"
   },
@@ -4027,7 +4027,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.01,
     "RawValue": "$10.01"
   },
@@ -4035,7 +4035,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.34,
     "RawValue": "$8.34"
   },
@@ -4043,7 +4043,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 6.67,
     "RawValue": "$6.67"
   },
@@ -4051,7 +4051,7 @@
     "Symbol": "SHW",
     "Sector": "Basic Materials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 20.9,
     "RawValue": "20.9x"
   },
@@ -4059,7 +4059,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "Revenue High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 43.1,
     "RawValue": "43.1B"
   },
@@ -4067,7 +4067,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "Revenue Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 37.5,
     "RawValue": "37.5B"
   },
@@ -4075,7 +4075,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "Revenue Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 31.9,
     "RawValue": "31.9B"
   },
@@ -4083,7 +4083,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "Revenue High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 52.7,
     "RawValue": "52.7B"
   },
@@ -4091,7 +4091,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "Revenue Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 45.8,
     "RawValue": "45.8B"
   },
@@ -4099,7 +4099,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "Revenue Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 38.9,
     "RawValue": "38.9B"
   },
@@ -4107,7 +4107,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "EPS High",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 9.72,
     "RawValue": "$9.72"
   },
@@ -4115,7 +4115,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "EPS Avg",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 8.1,
     "RawValue": "$8.1"
   },
@@ -4123,7 +4123,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "EPS Low",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 6.48,
     "RawValue": "$6.48"
   },
@@ -4131,7 +4131,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "EPS High",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 12.05,
     "RawValue": "$12.05"
   },
@@ -4139,7 +4139,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "EPS Avg",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 10.04,
     "RawValue": "$10.04"
   },
@@ -4147,7 +4147,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "EPS Low",
-    "Year": 2027,
+    "Year": "Next Year",
     "Value": 8.03,
     "RawValue": "$8.03"
   },
@@ -4155,7 +4155,7 @@
     "Symbol": "FCX",
     "Sector": "Basic Materials",
     "Metric": "Forward PE",
-    "Year": 2026,
+    "Year": "Current Year",
     "Value": 24.1,
     "RawValue": "24.1x"
   }
