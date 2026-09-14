@@ -1,6 +1,6 @@
 import json
 
-# 1. Universo de 40 Acciones (10 Tech + 3 por cada uno de los otros 10 sectores GICS)
+# 1. Complete Universe of 40 Stocks (10 Tech + 3 per remaining 10 GICS Sectors)
 UNIVERSE = [
     # Technology (10 Tickers)
     {"Sector": "Technology", "Rank": 1, "Symbol": "NVDA", "Company Name": "NVIDIA Corporation"},
@@ -65,29 +65,56 @@ UNIVERSE = [
     {"Sector": "Basic Materials", "Rank": 3, "Symbol": "FCX", "Company Name": "Freeport-McMoRan Inc."}
 ]
 
-# Escribir lista de sectores
+# Write sector_top3.json
 with open("sector_top3.json", "w", encoding="utf-8") as f:
     json.dump(UNIVERSE, f, indent=2)
 
-# Generar datos de proyecciones con valores ÚNICOS por empresa y AÑOS NUMÉRICOS
+# Generate detailed forecasts dataset
 forecast_dataset = []
-total_items = len(UNIVERSE)
+total_stocks = len(UNIVERSE)
 
 for idx, item in enumerate(UNIVERSE):
     sym = item["Symbol"]
-    # Genera un valor base único decreciente para cada ticker
-    base = (total_items - idx) * 12.5
+    sec = item["Sector"]
 
+    # Generate unique metrics per stock for realistic screener sorting
+    base_rev_2026 = round((total_stocks - idx) * 12.5 + 25.0, 1)
+    rev_growth_multiplier = 1.10 + (idx % 5) * 0.03  # 10% to 22% growth
+    base_rev_2027 = round(base_rev_2026 * rev_growth_multiplier, 1)
+
+    base_eps_2026 = round(3.50 + (idx % 7) * 1.15, 2)
+    eps_growth_multiplier = 1.12 + (idx % 4) * 0.04  # 12% to 24% growth
+    base_eps_2027 = round(base_eps_2026 * eps_growth_multiplier, 2)
+
+    forward_pe = round(14.5 + (idx % 9) * 3.2, 1)
+
+    # 1. Revenue Metrics (2026 & 2027)
     forecast_dataset.extend([
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue High", "Year": 2026, "Value": round(base * 1.25, 1), "RawValue": f"{round(base * 1.25, 1)}B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Avg", "Year": 2026, "Value": round(base * 1.00, 1), "RawValue": f"{round(base * 1.00, 1)}B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Low", "Year": 2026, "Value": round(base * 0.75, 1), "RawValue": f"{round(base * 0.75, 1)}B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue High", "Year": 2027, "Value": round(base * 1.50, 1), "RawValue": f"{round(base * 1.50, 1)}B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Avg", "Year": 2027, "Value": round(base * 1.20, 1), "RawValue": f"{round(base * 1.20, 1)}B"},
-        {"Symbol": sym, "Sector": item["Sector"], "Metric": "Revenue Low", "Year": 2027, "Value": round(base * 0.90, 1), "RawValue": f"{round(base * 0.90, 1)}B"}
+        {"Symbol": sym, "Sector": sec, "Metric": "Revenue High", "Year": 2026, "Value": round(base_rev_2026 * 1.15, 1), "RawValue": f"{round(base_rev_2026 * 1.15, 1)}B"},
+        {"Symbol": sym, "Sector": sec, "Metric": "Revenue Avg",  "Year": 2026, "Value": base_rev_2026, "RawValue": f"{base_rev_2026}B"},
+        {"Symbol": sym, "Sector": sec, "Metric": "Revenue Low",  "Year": 2026, "Value": round(base_rev_2026 * 0.85, 1), "RawValue": f"{round(base_rev_2026 * 0.85, 1)}B"},
+        {"Symbol": sym, "Sector": sec, "Metric": "Revenue High", "Year": 2027, "Value": round(base_rev_2027 * 1.15, 1), "RawValue": f"{round(base_rev_2027 * 1.15, 1)}B"},
+        {"Symbol": sym, "Sector": sec, "Metric": "Revenue Avg",  "Year": 2027, "Value": base_rev_2027, "RawValue": f"{base_rev_2027}B"},
+        {"Symbol": sym, "Sector": sec, "Metric": "Revenue Low",  "Year": 2027, "Value": round(base_rev_2027 * 0.85, 1), "RawValue": f"{round(base_rev_2027 * 0.85, 1)}B"},
     ])
 
+    # 2. EPS Metrics (2026 & 2027)
+    forecast_dataset.extend([
+        {"Symbol": sym, "Sector": sec, "Metric": "EPS High", "Year": 2026, "Value": round(base_eps_2026 * 1.20, 2), "RawValue": f"${round(base_eps_2026 * 1.20, 2)}"},
+        {"Symbol": sym, "Sector": sec, "Metric": "EPS Avg",  "Year": 2026, "Value": base_eps_2026, "RawValue": f"${base_eps_2026}"},
+        {"Symbol": sym, "Sector": sec, "Metric": "EPS Low",  "Year": 2026, "Value": round(base_eps_2026 * 0.80, 2), "RawValue": f"${round(base_eps_2026 * 0.80, 2)}"},
+        {"Symbol": sym, "Sector": sec, "Metric": "EPS High", "Year": 2027, "Value": round(base_eps_2027 * 1.20, 2), "RawValue": f"${round(base_eps_2027 * 1.20, 2)}"},
+        {"Symbol": sym, "Sector": sec, "Metric": "EPS Avg",  "Year": 2027, "Value": base_eps_2027, "RawValue": f"${base_eps_2027}"},
+        {"Symbol": sym, "Sector": sec, "Metric": "EPS Low",  "Year": 2027, "Value": round(base_eps_2027 * 0.80, 2), "RawValue": f"${round(base_eps_2027 * 0.80, 2)}"},
+    ])
+
+    # 3. Valuation Metric (Forward PE)
+    forecast_dataset.append(
+        {"Symbol": sym, "Sector": sec, "Metric": "Forward PE", "Year": 2026, "Value": forward_pe, "RawValue": f"{forward_pe}x"}
+    )
+
+# Write portfolio_forecasts.json
 with open("portfolio_forecasts.json", "w", encoding="utf-8") as f:
     json.dump(forecast_dataset, f, indent=2)
 
-print("Nuevos datos con valores únicos y años numéricos generados correctamente.")
+print("Successfully generated sector_top3.json and portfolio_forecasts.json.")
