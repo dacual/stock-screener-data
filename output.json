@@ -1,0 +1,18 @@
+[
+  {
+    "Ticker":"AAPL",
+    "Metric":"Revenue",
+    "Current Year":412000000000,
+    "Next Year":455000000000,
+    "YoY Growth %":10.4368932039,
+    "YoY Growth Display":"\ud83d\udfe2 +10.44%"
+  },
+  {
+    "Ticker":"NVDA",
+    "Metric":"Revenue",
+    "Current Year":128000000000,
+    "Next Year":165000000000,
+    "YoY Growth %":28.90625,
+    "YoY Growth Display":"\ud83d\udfe2 +28.91%"
+  }
+]
